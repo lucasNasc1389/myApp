@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=IntelliJ IDEA Community Edition
+Comment=IntelliJ IDEA Community Edition
+Icon=/opt/Packages/idea-IC-183.5153.38/bin/idea.png
+Exec=/opt/Packages/idea-IC-183.5153.38/bin/idea.sh %f
+Terminal=false
+Categories=Development;IDE;Java;
+Path=
+StartupNotify=false
