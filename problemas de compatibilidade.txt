@@ -1,0 +1,5 @@
+Em caso de problemas de compatibilidade com versões difentes do node
+
+Instale a versão mais recente no node e rode os coandos abaixo
+npm i @ionic/app-scripts
+npm rebuild node-sass
